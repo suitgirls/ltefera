@@ -17,4 +17,8 @@ a {
     font-family: 'Noto Serif', serif;
 }
 
-nav {background-color:lightcyan;}
+nav {
+    padding: 10px; 
+    margin-bottom: 30px;
+    background-color:lightcyan;
+    }
