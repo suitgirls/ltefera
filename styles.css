@@ -1,7 +1,8 @@
 body {
     color: darkblue;
     background-color: lightcyan;
+    font-family: 'Noto Serif', serif;
 }
-h1 {color: cadetblue; background-color: lightblue;}
-h2 {color: steelblue;}
-a {color: navy;}
+h1 {color: cadetblue; background-color: lightblue; font-family: 'Noto Serif', serif;}
+h2 {color: steelblue; font-family: 'Noto Serif', serif;}
+a {color: navy; font-family: 'Noto Serif', serif;}
