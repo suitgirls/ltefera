@@ -3,6 +3,18 @@ body {
     background-color: lightcyan;
     font-family: 'Noto Serif', serif;
 }
-h1 {color: cadetblue; background-color: lightblue; font-family: 'Noto Serif', serif;}
-h2 {color: steelblue; font-family: 'Noto Serif', serif;}
-a {color: navy; font-family: 'Noto Serif', serif;}
+h1 {
+    color: cadetblue; 
+    background-color: lightblue; 
+    font-family: 'Noto Serif', serif;
+}
+h2 {
+    color: steelblue; 
+    font-family: 'Noto Serif', serif;
+}
+a {
+    color: navy; 
+    font-family: 'Noto Serif', serif;
+}
+
+nav {background-color:lightcyan;}
